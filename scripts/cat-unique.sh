@@ -1,0 +1,1 @@
+find output -type f -exec cat {} +  | sort -n | uniq | tee output/uniqe.txt; rm output/gau-output.txt output/katana-output.txt;
