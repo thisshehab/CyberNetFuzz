@@ -26,11 +26,6 @@ build the image
 docker build -t CyberNetFuzz .
 ```
 ## Usage
-replace the file yourinput.txt with yours one, make sure that the file format like this 
-<br>
-http://example.com <br>
-https://example.com <br>
-...
 
 ```console
 sudo docker run -v ./yourinput.txt:/app/input.txt -it CyberNetFuzz
