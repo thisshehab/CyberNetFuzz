@@ -28,5 +28,5 @@ docker build -t CyberNetFuzz .
 ## Usage
 
 ```console
-sudo docker run -v ./yourinput.txt:/app/input.txt -it CyberNetFuzz
+sudo docker run -it CyberNetFuzz https://example.com
 ```
