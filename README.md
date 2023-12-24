@@ -16,7 +16,7 @@ start docker service
 systemctl start docker
 ```
 
-clone the repositor
+clone the repository
 ```console
 git clone https://github.com/thisshehab/CyberNetFuzz.git
 cd CyberNetFuzz
