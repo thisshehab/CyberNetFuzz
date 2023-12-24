@@ -5,7 +5,7 @@ Efficiently discover and scan a web app's content for common vulnerabilities. Id
 provide a list of domains, the tool will crawling the webapp and get all the possible vulnerable endpoints, then test them using custom nuclei tamplets!
 
 ## Installation via docker
-make sure that you have installed docker 
+make sure that you have installed docker>
 
 ```console
 apt install docker.io
