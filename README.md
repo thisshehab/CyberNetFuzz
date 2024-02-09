@@ -1,5 +1,5 @@
 # CyberNetFuzz
-Efficiently discover and scan a web app's content for common vulnerabilities. Identify potential SQL injection, SSRF, XSS, and more
+Efficiently discover and scan a web app's content for common vulnerabilities. Identify potential SQL injection, SSRF, XSS, and more.
 
 # Usage
 provide a list of domains, the tool will crawling the webapp and get all the possible vulnerable endpoints, then test them using custom nuclei tampletes.
